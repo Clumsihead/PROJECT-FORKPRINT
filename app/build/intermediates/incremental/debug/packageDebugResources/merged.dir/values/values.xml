@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#F7EFE5</color>
+    <string name="app_name">Forkprint</string>
+    <style name="Theme.Forkprint" parent="android:style/Theme.Material.Light.NoActionBar"/>
+</resources>

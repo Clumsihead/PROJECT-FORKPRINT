@@ -1,0 +1,72 @@
+com.forkprint.app-savedstate-1.2.1-0 C:\Users\mihir\.gradle\caches\8.10.2\transforms\02f8b4c535011ce076da70dda449637d\transformed\savedstate-1.2.1\res
+com.forkprint.app-places-4.1.0-1 C:\Users\mihir\.gradle\caches\8.10.2\transforms\055324ec464478eb1ea6269ab54a5159\transformed\places-4.1.0\res
+com.forkprint.app-runtime-saveable-release-2 C:\Users\mihir\.gradle\caches\8.10.2\transforms\068f9bf73bb18fd49f4ac3d3270f75b6\transformed\runtime-saveable-release\res
+com.forkprint.app-navigation-common-ktx-2.5.1-3 C:\Users\mihir\.gradle\caches\8.10.2\transforms\070eb79a8d876ee2bb2b50825a77e47f\transformed\navigation-common-ktx-2.5.1\res
+com.forkprint.app-hilt-navigation-1.2.0-4 C:\Users\mihir\.gradle\caches\8.10.2\transforms\0da70cd3431631de88cd17b9b0ee91e3\transformed\hilt-navigation-1.2.0\res
+com.forkprint.app-core-runtime-2.2.0-5 C:\Users\mihir\.gradle\caches\8.10.2\transforms\103bb9aa17651d8808069099a0a4b116\transformed\core-runtime-2.2.0\res
+com.forkprint.app-activity-compose-1.9.3-6 C:\Users\mihir\.gradle\caches\8.10.2\transforms\1314b154131a8e7c129f44c03dbabfdd\transformed\activity-compose-1.9.3\res
+com.forkprint.app-sqlite-2.4.0-7 C:\Users\mihir\.gradle\caches\8.10.2\transforms\1497c795295a2a96a17208bae37e6993\transformed\sqlite-2.4.0\res
+com.forkprint.app-navigation-runtime-2.5.1-8 C:\Users\mihir\.gradle\caches\8.10.2\transforms\1d902fae8e1f0d648221652eb279e415\transformed\navigation-runtime-2.5.1\res
+com.forkprint.app-ui-release-9 C:\Users\mihir\.gradle\caches\8.10.2\transforms\1e2fc2ecab279ccdcde62edb7ac8543c\transformed\ui-release\res
+com.forkprint.app-lifecycle-viewmodel-ktx-2.8.7-10 C:\Users\mihir\.gradle\caches\8.10.2\transforms\1e84326ee2f0cf1eb92a837d9abdd399\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.forkprint.app-material-ripple-release-11 C:\Users\mihir\.gradle\caches\8.10.2\transforms\22750f6475035ab505fe9cbbf1f367db\transformed\material-ripple-release\res
+com.forkprint.app-ui-tooling-preview-release-12 C:\Users\mihir\.gradle\caches\8.10.2\transforms\27916122763f0bd40272064b7cbcd31e\transformed\ui-tooling-preview-release\res
+com.forkprint.app-lifecycle-runtime-ktx-release-13 C:\Users\mihir\.gradle\caches\8.10.2\transforms\2bf7501d2b35bd3ff9e1a6d54b51b238\transformed\lifecycle-runtime-ktx-release\res
+com.forkprint.app-graphics-path-1.0.1-14 C:\Users\mihir\.gradle\caches\8.10.2\transforms\3841bc5612cfdb3b95585fe1c51e942a\transformed\graphics-path-1.0.1\res
+com.forkprint.app-lifecycle-viewmodel-release-15 C:\Users\mihir\.gradle\caches\8.10.2\transforms\3a23dca5dbbd6a8a233e5c95ae1e0da0\transformed\lifecycle-viewmodel-release\res
+com.forkprint.app-navigation-compose-2.5.1-16 C:\Users\mihir\.gradle\caches\8.10.2\transforms\40236ca3ac00d26fb8e87c0326334790\transformed\navigation-compose-2.5.1\res
+com.forkprint.app-lifecycle-runtime-compose-release-17 C:\Users\mihir\.gradle\caches\8.10.2\transforms\410c74edf5241f6f06a555a6d6e44db5\transformed\lifecycle-runtime-compose-release\res
+com.forkprint.app-savedstate-ktx-1.2.1-18 C:\Users\mihir\.gradle\caches\8.10.2\transforms\45319389d346d3606b7f7ffeed76d16d\transformed\savedstate-ktx-1.2.1\res
+com.forkprint.app-fragment-1.5.1-19 C:\Users\mihir\.gradle\caches\8.10.2\transforms\47b8c99bb39fb70e713f73893f8adb0d\transformed\fragment-1.5.1\res
+com.forkprint.app-room-runtime-2.6.1-20 C:\Users\mihir\.gradle\caches\8.10.2\transforms\483802c48c8a3c0065eeff80caaa60a7\transformed\room-runtime-2.6.1\res
+com.forkprint.app-hilt-navigation-compose-1.2.0-21 C:\Users\mihir\.gradle\caches\8.10.2\transforms\52ce00b9ec36fe2c6d6b2937a1fdf489\transformed\hilt-navigation-compose-1.2.0\res
+com.forkprint.app-ui-tooling-release-22 C:\Users\mihir\.gradle\caches\8.10.2\transforms\582ea076e24589e0ae5149d5102e7181\transformed\ui-tooling-release\res
+com.forkprint.app-play-services-basement-18.4.0-23 C:\Users\mihir\.gradle\caches\8.10.2\transforms\594730e3615306285337f887cc78adad\transformed\play-services-basement-18.4.0\res
+com.forkprint.app-material-release-24 C:\Users\mihir\.gradle\caches\8.10.2\transforms\5e13fb5ac00bac95f95504c78aa169e1\transformed\material-release\res
+com.forkprint.app-core-1.15.0-25 C:\Users\mihir\.gradle\caches\8.10.2\transforms\61755567a905d4511a8e2e2fd09611a8\transformed\core-1.15.0\res
+com.forkprint.app-ui-text-release-26 C:\Users\mihir\.gradle\caches\8.10.2\transforms\6aba5a8308217a372eb78d29e8f455f0\transformed\ui-text-release\res
+com.forkprint.app-play-services-maps-19.0.0-27 C:\Users\mihir\.gradle\caches\8.10.2\transforms\6fdbbd74e27d3410ce9a8c086ae3f5cd\transformed\play-services-maps-19.0.0\res
+com.forkprint.app-cardview-1.0.0-28 C:\Users\mihir\.gradle\caches\8.10.2\transforms\70f16d3ad635d16713dbde7cd5da4b20\transformed\cardview-1.0.0\res
+com.forkprint.app-activity-ktx-1.9.3-29 C:\Users\mihir\.gradle\caches\8.10.2\transforms\726e71cd99a141989bbdaeb2d2d7f1da\transformed\activity-ktx-1.9.3\res
+com.forkprint.app-annotation-experimental-1.4.1-30 C:\Users\mihir\.gradle\caches\8.10.2\transforms\73401b45993100e5801bbe87dc1bd109\transformed\annotation-experimental-1.4.1\res
+com.forkprint.app-core-ktx-1.15.0-31 C:\Users\mihir\.gradle\caches\8.10.2\transforms\74b647243b79948cbfe05da22ef49021\transformed\core-ktx-1.15.0\res
+com.forkprint.app-room-ktx-2.6.1-32 C:\Users\mihir\.gradle\caches\8.10.2\transforms\76f793773731fd9249e2c23370ed986d\transformed\room-ktx-2.6.1\res
+com.forkprint.app-ui-unit-release-33 C:\Users\mihir\.gradle\caches\8.10.2\transforms\77432b906326cfd7fed287e517b8ba05\transformed\ui-unit-release\res
+com.forkprint.app-ui-util-release-34 C:\Users\mihir\.gradle\caches\8.10.2\transforms\7746776ff05ed7a468905cda53899958\transformed\ui-util-release\res
+com.forkprint.app-foundation-release-35 C:\Users\mihir\.gradle\caches\8.10.2\transforms\7dabfd83aad8e4313a63c72f396a808f\transformed\foundation-release\res
+com.forkprint.app-foundation-layout-release-36 C:\Users\mihir\.gradle\caches\8.10.2\transforms\80d75dd3c02296ecdcb2229922aa9a8c\transformed\foundation-layout-release\res
+com.forkprint.app-tracing-1.2.0-37 C:\Users\mihir\.gradle\caches\8.10.2\transforms\82a7995f1b5763b4c0fd004ba006368d\transformed\tracing-1.2.0\res
+com.forkprint.app-lifecycle-livedata-2.8.7-38 C:\Users\mihir\.gradle\caches\8.10.2\transforms\83b36bf433294b2d631f8e8a967f5869\transformed\lifecycle-livedata-2.8.7\res
+com.forkprint.app-customview-poolingcontainer-1.0.0-39 C:\Users\mihir\.gradle\caches\8.10.2\transforms\87a47ba0005699c23b0ab6edc70df5fb\transformed\customview-poolingcontainer-1.0.0\res
+com.forkprint.app-lifecycle-viewmodel-compose-release-40 C:\Users\mihir\.gradle\caches\8.10.2\transforms\8a57041f7661fa88b7eb4ab8c17b28c8\transformed\lifecycle-viewmodel-compose-release\res
+com.forkprint.app-runtime-release-41 C:\Users\mihir\.gradle\caches\8.10.2\transforms\8d2eb8da5b2624a6d7d8a89c58ab7673\transformed\runtime-release\res
+com.forkprint.app-material-icons-core-release-42 C:\Users\mihir\.gradle\caches\8.10.2\transforms\8fee7a7a7fc1334d7f5f8f317766d6c4\transformed\material-icons-core-release\res
+com.forkprint.app-profileinstaller-1.3.1-43 C:\Users\mihir\.gradle\caches\8.10.2\transforms\9155642bf2f921b685038f383478da19\transformed\profileinstaller-1.3.1\res
+com.forkprint.app-ui-tooling-data-release-44 C:\Users\mihir\.gradle\caches\8.10.2\transforms\91ba75db1a90d32193e8e20f6576cdc3\transformed\ui-tooling-data-release\res
+com.forkprint.app-startup-runtime-1.1.1-45 C:\Users\mihir\.gradle\caches\8.10.2\transforms\920b5d7ac7924c6e40184fe5110d61f3\transformed\startup-runtime-1.1.1\res
+com.forkprint.app-play-services-base-18.5.0-46 C:\Users\mihir\.gradle\caches\8.10.2\transforms\97057f223aae1da1563890a63f7955c5\transformed\play-services-base-18.5.0\res
+com.forkprint.app-lifecycle-process-2.8.7-47 C:\Users\mihir\.gradle\caches\8.10.2\transforms\97b4f87f7612e87ed287917adad5fa1d\transformed\lifecycle-process-2.8.7\res
+com.forkprint.app-lifecycle-runtime-release-48 C:\Users\mihir\.gradle\caches\8.10.2\transforms\993770b3ef4bf8c666ccd15fa0369a0f\transformed\lifecycle-runtime-release\res
+com.forkprint.app-material3-release-49 C:\Users\mihir\.gradle\caches\8.10.2\transforms\9b727b221515008ee50ccae418590650\transformed\material3-release\res
+com.forkprint.app-lifecycle-livedata-core-ktx-2.8.7-50 C:\Users\mihir\.gradle\caches\8.10.2\transforms\a74143dc543962c35bcaec12d47f6035\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.forkprint.app-navigation-common-2.5.1-51 C:\Users\mihir\.gradle\caches\8.10.2\transforms\a9c40f8d29d277efbe0907b33a456e6f\transformed\navigation-common-2.5.1\res
+com.forkprint.app-material-icons-extended-release-52 C:\Users\mihir\.gradle\caches\8.10.2\transforms\ab6471c773d32c228d50d9418c512330\transformed\material-icons-extended-release\res
+com.forkprint.app-ui-geometry-release-53 C:\Users\mihir\.gradle\caches\8.10.2\transforms\b0592758e0098e1ae396616727a50d87\transformed\ui-geometry-release\res
+com.forkprint.app-animation-release-54 C:\Users\mihir\.gradle\caches\8.10.2\transforms\b1e45e161aed8c5abf8a145603129ecb\transformed\animation-release\res
+com.forkprint.app-lifecycle-livedata-core-2.8.7-55 C:\Users\mihir\.gradle\caches\8.10.2\transforms\b7295d78156da8f762eb4c155c4284cc\transformed\lifecycle-livedata-core-2.8.7\res
+com.forkprint.app-lifecycle-viewmodel-savedstate-2.8.7-56 C:\Users\mihir\.gradle\caches\8.10.2\transforms\b848c39ef66f0de1d2186766a53d5a1d\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.forkprint.app-navigation-runtime-ktx-2.5.1-57 C:\Users\mihir\.gradle\caches\8.10.2\transforms\b9a0387dd64e3920154caee4e292cd31\transformed\navigation-runtime-ktx-2.5.1\res
+com.forkprint.app-recyclerview-1.3.2-58 C:\Users\mihir\.gradle\caches\8.10.2\transforms\bbf164be7db32f5ab4f6bbee98b0c9e7\transformed\recyclerview-1.3.2\res
+com.forkprint.app-sqlite-framework-2.4.0-59 C:\Users\mihir\.gradle\caches\8.10.2\transforms\bf3b784b84d66a2dc3cfd8c6c63cfd47\transformed\sqlite-framework-2.4.0\res
+com.forkprint.app-coordinatorlayout-1.0.0-60 C:\Users\mihir\.gradle\caches\8.10.2\transforms\c10dd3a5425612994d3dc861ee39fee1\transformed\coordinatorlayout-1.0.0\res
+com.forkprint.app-ui-graphics-release-61 C:\Users\mihir\.gradle\caches\8.10.2\transforms\c876761f94853aab4fed381f24102f61\transformed\ui-graphics-release\res
+com.forkprint.app-appcompat-1.0.0-62 C:\Users\mihir\.gradle\caches\8.10.2\transforms\e46da5a99608080f0c0833a6093e75da\transformed\appcompat-1.0.0\res
+com.forkprint.app-activity-1.9.3-63 C:\Users\mihir\.gradle\caches\8.10.2\transforms\e892612c746e5437b8acb4badc26118d\transformed\activity-1.9.3\res
+com.forkprint.app-emoji2-1.3.0-64 C:\Users\mihir\.gradle\caches\8.10.2\transforms\ea98bca79b458aae6182b2f84896a117\transformed\emoji2-1.3.0\res
+com.forkprint.app-animation-core-release-65 C:\Users\mihir\.gradle\caches\8.10.2\transforms\fd81a10f20c1ef0e29eb649c4fbc4bf2\transformed\animation-core-release\res
+com.forkprint.app-resValues-66 D:\DevTools\PROJECT Forkprint\app\build\generated\res\resValues\debug
+com.forkprint.app-packageDebugResources-67 D:\DevTools\PROJECT Forkprint\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.forkprint.app-packageDebugResources-68 D:\DevTools\PROJECT Forkprint\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.forkprint.app-debug-69 D:\DevTools\PROJECT Forkprint\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.forkprint.app-debug-70 D:\DevTools\PROJECT Forkprint\app\src\debug\res
+com.forkprint.app-main-71 D:\DevTools\PROJECT Forkprint\app\src\main\res
